@@ -5,6 +5,8 @@
       "namespace": "android_app",
       "package_name": "dev.omalauncher",
       "sha256_cert_fingerprints": [
+        "2C:E6:20:AB:CF:72:6F:0A:6F:06:FB:44:79:99:E5:AF:70:BE:76:15:01:46:BC:CB:82:18:72:31:FF:3B:7C:4F",
+        "5A:1D:CC:F2:3E:C0:28:76:B7:08:BA:90:98:F5:45:9C:C7:2D:6A:AA:A0:4B:14:F4:0D:F1:48:F3:70:E5:3D:BB",
         "59:73:6E:76:78:3C:5D:F6:C7:48:2E:D6:C0:DA:0E:1E:92:20:DC:7B:1D:9E:E9:4C:0E:C6:09:4C:95:5D:94:DF"
       ]
     }
